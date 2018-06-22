@@ -1,0 +1,3 @@
+rootProject.name = 'weiPay'
+
+include ':app', ':wechatpay', ':alipay'
